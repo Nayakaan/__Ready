@@ -1,0 +1,41 @@
+// Main Sass File
+// @import "partials/home-page";
+
+.home-page{
+  background-position: center center;
+  background-size: cover;
+  position: relative;
+  .main-logo{
+    margin-bottom: -80px;
+  }
+  .image-wrapper{
+    margin-bottom: 0px;
+  }
+  .snow-layer{
+    position: absolute;
+    bottom: -1px;
+  }
+}
+
+footer{
+  .footer-content{
+    background-color: #ea8a9c;
+    text-align: center;
+    img{
+      padding: 20px 0px;
+    }
+  }
+}
+
+
+// Festive Fun
+
+.festive-fun{
+  background-image: url('../img/main/bg-festive-fun.png');
+  background-position: center center;
+  background-size: cover;
+  position: relative;
+  .header-festive-fun{
+    background-color: #ea8a9c;
+  }
+}

@@ -1,0 +1,25 @@
+.home-page {
+  background-position: center center;
+  background-size: cover;
+  position: relative; }
+  .home-page .main-logo {
+    margin-bottom: -80px; }
+  .home-page .image-wrapper {
+    margin-bottom: 0px; }
+  .home-page .snow-layer {
+    position: absolute;
+    bottom: -1px; }
+
+footer .footer-content {
+  background-color: #ea8a9c;
+  text-align: center; }
+  footer .footer-content img {
+    padding: 20px 0px; }
+
+.festive-fun {
+  background-image: url("../img/main/bg-festive-fun.png");
+  background-position: center center;
+  background-size: cover;
+  position: relative; }
+  .festive-fun .header-festive-fun {
+    background-color: #ea8a9c; }
